@@ -36,8 +36,8 @@ Me chamo Rodrigo Bitencourt, tenho 28 anos e sou natural do Rio de Janeiro. Conc
 ### 📬 Entre em contato
 
 <p align="left">
-<a href="https://www.linkedin.com/in/rodrigotbittencourt/"><img alt="LinkedIn" title="LinkedIn" width="40" height="40" src="assets/linkedin.svg" /></a>&nbsp;&nbsp;
-<a href="https://portifoliorodrigobittencourt.base44.app/"><img alt="Portfólio" title="Portfólio" width="40" height="40" src="assets/portfolio.svg" /></a>&nbsp;&nbsp;
-<a href="https://media.base44.com/files/public/6abfc33f002ba7e6444e7e78/901e03497_Curriculo_Rodrigo_Bittencourt_Analista_de_Dados.pdf"><img alt="Currículo" title="Currículo" width="40" height="40" src="assets/cv.svg" /></a>&nbsp;&nbsp;
-<a href="mailto:rodrigo.tbittencourt@outlook.com"><img alt="E-mail" title="E-mail" width="40" height="40" src="assets/email.svg" /></a>
+<a href="https://www.linkedin.com/in/rodrigotbittencourt/"><img alt="LinkedIn" title="LinkedIn" width="40" height="40" src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/linkedin-icon.svg" /></a>&nbsp;&nbsp;
+<a href="https://portifoliorodrigobittencourt.base44.app/"><img alt="Portfólio" title="Portfólio" width="40" height="40" src="https://placehold.co/80x80/0A66C2/FFFFFF/png?text=P" /></a>&nbsp;&nbsp;
+<a href="https://media.base44.com/files/public/6abfc33f002ba7e6444e7e78/901e03497_Curriculo_Rodrigo_Bittencourt_Analista_de_Dados.pdf"><img alt="Currículo" title="Currículo (PDF)" width="40" height="40" src="https://cdn.jsdelivr.net/gh/vscode-icons/vscode-icons@master/icons/file_type_pdf2.svg" /></a>&nbsp;&nbsp;
+<a href="mailto:rodrigo.tbittencourt@outlook.com"><img alt="E-mail" title="E-mail" width="40" height="40" src="https://cdn.jsdelivr.net/gh/vscode-icons/vscode-icons@master/icons/file_type_outlook.svg" /></a>
 </p>
