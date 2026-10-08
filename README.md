@@ -28,7 +28,6 @@ Me chamo Rodrigo Bitencourt, tenho 28 anos e sou natural do Rio de Janeiro. Conc
 <img alt="Power BI" title="Power BI" width="30" height="30" src="https://cdn.jsdelivr.net/gh/vscode-icons/vscode-icons@master/icons/file_type_powerbi.svg" />&nbsp;&nbsp;
 <img alt="Tableau" title="Tableau" width="30" height="30" src="https://img.icons8.com/color/96/tableau-software.png" />&nbsp;&nbsp;
 <img alt="Excel" title="Excel" width="30" height="30" src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" />&nbsp;&nbsp;
-<img alt="Scrum" title="Scrum" width="30" height="30" src="https://img.icons8.com/color/96/scrum-board.png" />&nbsp;&nbsp;
 <img alt="Claude" title="Claude" width="30" height="30" src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/claude-icon.svg" />
 </p>
 
@@ -37,9 +36,8 @@ Me chamo Rodrigo Bitencourt, tenho 28 anos e sou natural do Rio de Janeiro. Conc
 ### 📬 Entre em contato
 
 <p align="left">
-<a href="https://www.linkedin.com/in/rodrigotbittencourt/"><img alt="LinkedIn" title="LinkedIn" width="30" height="30" align="center" src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/linkedin-icon.svg" />&nbsp;<b>LinkedIn</b></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://portifoliorodrigobittencourt.base44.app/"><img alt="Portfólio" title="Portfólio" width="30" height="30" align="center" src="assets/foto.jpg" />&nbsp;<b>Portfólio</b></a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:rodrigo.tbittencourt@outlook.com"><img alt="E-mail" title="E-mail" width="30" height="30" align="center" src="https://cdn.jsdelivr.net/gh/vscode-icons/vscode-icons@master/icons/file_type_outlook.svg" />&nbsp;<b>E-mail</b></a>
+<a href="https://www.linkedin.com/in/rodrigotbittencourt/"><img alt="LinkedIn" title="LinkedIn" width="40" height="40" src="assets/linkedin.svg" /></a>&nbsp;&nbsp;
+<a href="https://portifoliorodrigobittencourt.base44.app/"><img alt="Portfólio" title="Portfólio" width="40" height="40" src="assets/portfolio.svg" /></a>&nbsp;&nbsp;
+<a href="https://media.base44.com/files/public/6abfc33f002ba7e6444e7e78/901e03497_Curriculo_Rodrigo_Bittencourt_Analista_de_Dados.pdf"><img alt="Currículo" title="Currículo" width="40" height="40" src="assets/cv.svg" /></a>&nbsp;&nbsp;
+<a href="mailto:rodrigo.tbittencourt@outlook.com"><img alt="E-mail" title="E-mail" width="40" height="40" src="assets/email.svg" /></a>
 </p>
